@@ -3,6 +3,15 @@
   "hotfixesFormat": null,
   "versions": [
     {
+        "id": "1.5.0",
+        "releasedAt": 1766860200000,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/simplyfellas/files/7383709"
+            }
+        }
+    },
+    {
         "id": "1.5.1",
         "releasedAt": 1766890030358,
         "promotions": {

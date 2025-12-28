@@ -1,0 +1,56 @@
+# SimplyFellas Update 1.5.0
+
+## The New Year's Preparation
+
+Added tons of content this update! See [the updated wiki](<https://github.com/SimplyFellas/SimplyFellasWiki/wiki/Wiki-Homepage>) for more specifics on any of these changes.
+
+## Client Enhancement
+- Added Reese's Sodium Options
+- Added NeoAuth
+- Added Just Enough Immersive Multiblocks
+- Added Sophisticated Backpack Tab
+
+## Pack Preparation
+- Added Your Options Shall Be Respected (And configured default options for first time installers)
+- Added FTBTeams
+- Added FTBChunks
+- Added FTBQuests
+- Added FTB XMod Compat
+
+## Mod Unification
+- Added Almost Unified
+- Added AU: Immersive Engineering
+
+## Performance
+- Added FastWorkbench
+- Added FastFurnace
+
+## Create Mods
+- Added Create: Aquatic Ambitions
+- Added Create: Wrapped (Get to wrapping your holiday presents!)
+- Added Create: Connected
+- Added Create: Ender Link (Adds ender vaults and ender tanks controlled by frequency!)
+
+## Immersive Engineering
+- Added Immersive Engineering
+- Added Immersive Machinery
+- Added Immersive Petroleum
+- Added More Immersive Wires
+- Added Engineers Delight
+
+## New Content
+- Added Sophisticated Storage
+- Added Sophisticated Storage Create Integration
+- Added Productive Bees
+- Added Modular Bees
+- Added Immersive Aircraft
+- Added Advanced Peripherals
+
+## Quality of Life
+- Added Cable Facades
+- Added Crafting on a Stick
+- Added Crafting Station
+
+## Required libraries
+- Added TxniLib
+- Added Glodium
