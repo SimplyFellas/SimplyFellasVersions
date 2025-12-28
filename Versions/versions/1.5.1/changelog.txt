@@ -1,8 +1,10 @@
-# SimplyFellas Update 1.5.1 - Automation Expansion & Content Renewal
+# SimplyFellas Update 1.5.1
+
+## Automation Expansion & Content Renewal
 
 Added tons more content this update! See [the updated wiki](<https://github.com/SimplyFellas/SimplyFellasWiki/wiki/Wiki-Homepage>) for more specifics once again!
 
-**Performance**
+## Performance
 
 * Added Does it Tick?
 * Added Client Crafting
@@ -10,7 +12,7 @@ Added tons more content this update! See [the updated wiki](<https://github.com/
 * Added Fast Item Frames
 * Added Fast IP Ping
 
-**Quality of Life**
+## Quality of Life
 
 * Added Easy Anvils
 * Added Easy Magic
@@ -29,33 +31,33 @@ Added tons more content this update! See [the updated wiki](<https://github.com/
 * Added Bridging Mod
 * Added Simple Datapacks
 
-**Compatibility / Configuration**
+## Compatibility / Configuration
 
 * Added SimplyFellas datapack that provides compatibility between Butchercraft, Backported Animal Variants, and Modern Chickens.
 * Configured Carry On to no longer allow you to pickup all blocks.
 
-**New Food**
+## New Food
 
 * Added Ender's Delight
 * Added Ocean's Delight
 
-**New Mobs**
+## New Mobs
 
 * Added Tiny Dragons
 * Added Illager Invasion
 
-**Automation**
+## Automation
 
 * Added Modern Dynamics
 * Added PneumaticCraft: Repressurized
 
-**More Blocks**
+## More Blocks
 
 * Added Chipped
 * Added Rechiseled: Chipped
 * Added Athena (Connected textures for all new block variants)
 
-**Required Libraries**
+## Required Libraries
 
 * Added Puzzles Lib
 * Added Chunk Activity Tracker
