@@ -1,0 +1,52 @@
+# SimplyFellas Update 1.5.1 - Automation Expansion & Content Renewal
+Added tons more content this update! See [the updated wiki](<https://github.com/SimplyFellas/SimplyFellasWiki/wiki/Wiki-Homepage>) for more specifics once again!
+
+**Performance**
+- Added Does it Tick?
+- Added Client Crafting
+- Added Fast Paintings
+- Added Fast Item Frames
+- Added Fast IP Ping
+
+**Quality of Life**
+- Added Easy Anvils
+- Added Easy Magic
+- Added Easy Disenchanting
+- Added Cherished Worlds
+- Added Crawl on Demand
+- Added Cut Through
+- Added Bow Infinity Fix
+- Added Golem Spawn Fix
+- Added Legendary Tooltips
+- Added Immersive Armor HUD
+- Added Advancement Plaques
+- Added Iris/Oculus Shader Folder
+- Added Load My F***ing Tags
+- Added Longer Chat History
+- Added Bridging Mod
+- Added Simple Datapacks
+
+**Compatibility / Configuration**
+- Added SimplyFellas datapack that provides compatibility between Butchercraft, Backported Animal Variants, and Modern Chickens.
+- Configured Carry On to no longer allow you to pickup all blocks.
+
+**New Food**
+- Added Ender's Delight
+- Added Ocean's Delight
+
+**New Mobs**
+- Added Tiny Dragons
+- Added Illager Invasion
+
+**Automation**
+- Added Modern Dynamics
+- Added PneumaticCraft: Repressurized
+
+**More Blocks**
+- Added Chipped
+- Added Rechiseled: Chipped
+- Added Athena (Connected textures for all new block variants)
+
+**Required Libraries**
+- Added Puzzles Lib
+- Added Chunk Activity Tracker
