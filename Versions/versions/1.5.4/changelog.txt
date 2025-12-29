@@ -4,6 +4,18 @@
 
 **See the [new wiki page](https://github.com/SimplyFellas/SimplyFellasWiki/wiki/Create-a-Server) for more information on how to self-host a SimplyFellas server.**
 
-## Additions
+## Changes
 - Added Do a Barrel Roll - Adds better flight mechanics with realistic roll, pitch, and yaw while using an elytra.
 - Added Rolling Down in the Deep - Adds better diving and swimming mechanics with realistic roll, pitch, and yaw adjustments.
+- Updated Entity Texture Features
+- Updated Carry On
+- Updated Immersive Petroleum
+- Updated Create: New Age
+- Updated Pipe Connector
+- Updated Moonlight Lib
+- Updated Sophisticated Backpacks
+- Updated Supplementaries
+- Updated Sophisticated Core
+- Updated Just Enough Items
+- Added Global Packs
+- Removed Simple Data Packs
