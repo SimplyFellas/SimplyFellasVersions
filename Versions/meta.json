@@ -37,6 +37,15 @@
                 "curseforge": "https://www.curseforge.com/minecraft/modpacks/simplyfellas/files/7391205"
             }
         }
+    },
+     {
+        "id": "1.5.4",
+        "releasedAt": 1767042322319,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/simplyfellas/files/7394052"
+            }
+        }
     }
 ]
 }

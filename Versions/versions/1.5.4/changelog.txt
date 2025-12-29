@@ -1,0 +1,9 @@
+# SimplyFellas Update 1.5.4
+
+## Elytra/Swimming Mechanics & Server Hosting!
+
+**See the [new wiki page](https://github.com/SimplyFellas/SimplyFellasWiki/wiki/Create-a-Server) for more information on how to self-host a SimplyFellas server.**
+
+## Additions
+- Added Do a Barrel Roll - Adds better flight mechanics with realistic roll, pitch, and yaw while using an elytra.
+- Added Rolling Down in the Deep - Adds better diving and swimming mechanics with realistic roll, pitch, and yaw adjustments.
