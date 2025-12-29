@@ -2,7 +2,7 @@
 
 ## More Additions!
 
-* Added Modpack Updates Checker and created a public repository for version hosting. The pack will now tell you if you need to update!
+Added tons more content this update! See [the updated wiki](<https://github.com/SimplyFellas/SimplyFellasWiki/wiki/Wiki-Homepage>) for more specifics once again!
 
 ## Quality of Life
 
