@@ -1,0 +1,54 @@
+# SimplyFellas Update 1.5.3
+
+## More Additions!
+
+* Added Modpack Updates Checker and created a public repository for version hosting. The pack will now tell you if you need to update!
+
+## Quality of Life
+
+* Added Akashic Tome
+* Added Morph-o-Tool
+* Added Trade Cycling
+* Added Repeatable Trial Vaults
+
+## Mob Tweaks
+
+* Added Wither Skeleton Tweaks
+
+## Compatibility
+
+* Added Better Compatibility Checker
+* Added Engineered Compatibility
+* Added Sophisticated Storage in Motion
+* Added Smithing Template Viewer for JEI/EMI
+
+## Performance
+
+* Added Create: Threaded Trains
+
+## Magic / Alchemy
+
+* Added Extra Alchemy
+* Added Theurgy
+
+## New Content
+
+* Added Iron Furnaces
+* Added Artifacts
+* Added End Portal Recipe
+* Added Create: Better Motors
+* Added Create: Transmission!
+* Added Create: Blocks & Bogies
+
+## Required Libraries
+
+* Added Modonomicon
+* Added Better Library
+
+## Changes
+
+* Reconfigured the main menu to be closer to vanilla!
+
+## Removals
+
+* Removed More Dragon Eggs (Taken care of by End Portal Recipe)

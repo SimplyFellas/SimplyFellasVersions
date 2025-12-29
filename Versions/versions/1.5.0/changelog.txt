@@ -51,6 +51,6 @@ Added tons of content this update! See [the updated wiki](<https://github.com/Si
 - Added Crafting on a Stick
 - Added Crafting Station
 
-## Required libraries
+## Required Libraries
 - Added TxniLib
 - Added Glodium
