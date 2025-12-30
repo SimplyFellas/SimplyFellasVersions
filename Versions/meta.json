@@ -38,12 +38,21 @@
             }
         }
     },
-     {
+    {
         "id": "1.5.4",
         "releasedAt": 1767042322319,
         "promotions": {
             "downloads": {
                 "curseforge": "https://www.curseforge.com/minecraft/modpacks/simplyfellas/files/7394451"
+            }
+        }
+    },
+    {
+        "id": "1.5.5",
+        "releasedAt": 1767061079142,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/simplyfellas/files/7395013"
             }
         }
     }

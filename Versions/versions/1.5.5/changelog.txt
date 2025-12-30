@@ -1,0 +1,24 @@
+# SimplyFellas Update 1.5.5
+
+## Enhanced Exploration!
+
+## Changes
+* Updated Crafting on a Stick
+* Updated Advanced Peripherals
+* Added Obscure Tooltips
+* Added Pillager Caravans
+* Added Small Ships
+* Added Enhanced Celestials
+* Added L_Ender's Cataclysm
+* Added What Are They Up To
+* Added Enhanced Workbenches
+* Removed Crafting Station (In favor of Enhanced Workbenches)
+* Removed Legendary Tooltips (In favor of Obscure Tooltips)
+
+## Required Libraries
+* Added Corgilib
+* Added Data Anchor
+* Added Fragmentum
+* Added Coroutil
+* Added Lionfishapi
+* Added Yet Another Config Lib
