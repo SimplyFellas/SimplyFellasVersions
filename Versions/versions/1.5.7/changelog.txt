@@ -1,0 +1,9 @@
+# SimplyFellas Update 1.5.7
+
+## Shader Optimizations & Patches!
+
+* Removed Borderless Window
+* Added Cubes Without Borders
+* Updated Tom's Simple Storage
+* Updated Colorwheel
+* Updated Colorwheel Patcher
