@@ -8,3 +8,4 @@
 * Updated Simple Discord Rich Presence
 * Updated Entity Culling
 * Repaired Rich Presence client ID configuration so Discord should now once again say that you're playing the SimplyFellas pack!
+* Fixed custom window icon!
