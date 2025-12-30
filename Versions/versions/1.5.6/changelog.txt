@@ -1,0 +1,10 @@
+# SimplyFellas Update 1.5.6
+
+## Updates & Fixes!
+
+## Changes
+* Updated Entity Model Features
+* Updated Moonlight Lib
+* Updated Simple Discord Rich Presence
+* Updated Entity Culling
+* Repaired Rich Presence client ID configuration so Discord should now once again say that you're playing the SimplyFellas pack!
