@@ -1,0 +1,10 @@
+# SimplyFellas Update 1.5.8
+
+## Quest Preparation!
+
+* Updated More Immersive Wires
+* Added ExtraQuests
+* Added FTB Filter System
+* Added FTB Quests Optimizer
+* Added Quests Kill Task Tweaks
+* Added ExtraLib
