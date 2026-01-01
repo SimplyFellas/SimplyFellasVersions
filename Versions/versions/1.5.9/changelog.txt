@@ -9,7 +9,6 @@
 * Added Create: Simple Coins Renewed
 * Added Better Tag NBT Tips
 * Added Journeymap Integration
-* Added Journeymap Waypoint Syncing
 * Added Waystones
 * Added Common Network (Required library)
 * Added server-side configurations and fixed several mod notifications upon joining worlds.
