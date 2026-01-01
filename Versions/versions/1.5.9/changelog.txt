@@ -1,0 +1,15 @@
+# SimplyFellas Update 1.5.9
+
+## Fixes & More Preparation!
+
+* Updated Entity Model Features
+* Updated Cable Facades
+* Updated Better Compatibility Checker
+* Updated Sophisticated Core
+* Added Create: Simple Coins Renewed
+* Added Better Tag NBT Tips
+* Added Journeymap Integration
+* Added Journeymap Waypoint Syncing
+* Added Waystones
+* Added Common Network (Required library)
+* Added server-side configurations and fixed several mod notifications upon joining worlds.
