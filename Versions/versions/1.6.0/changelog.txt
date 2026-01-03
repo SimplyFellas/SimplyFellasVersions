@@ -1,0 +1,36 @@
+# SimplyFellas Update 1.6.0
+
+## Updates and Expansion!
+
+## Updates
+
+* Updated Create: Structures Arise
+* Updated Liberty's Villagers Revived
+* Updated Colorwheel
+* Updated PneumaticCraft: Repressurized
+* Updated Create
+
+## Additions
+
+* Added Baubley Heart Containers
+* Added Create: Ore Excavation
+* Added Create: Encased
+* Added Create: Misc & Things
+* Added Create: Deep Dark
+* Added Create: Iron Works
+* Added Create: Metalwork
+* Added Create: Drill Drain
+* Added Create: Filters Anywhere
+* Added Vending Block: Restocked
+* Added Stellaris
+* Added Mighty Mail
+* Added Productive Metalworks
+
+## Changes
+
+* Properly configured the required resource packs.
+
+## Required Libraries
+
+* Added Potentials
+* Added Sky Aesthetics
